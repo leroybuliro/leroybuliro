@@ -2,13 +2,13 @@ Analyst and software engineer who works at the intersection of technology, data 
 
 ### Competencies and Technologies
 
-**Coding Languages**: R, C, Python. 
+**Coding Languages**: R, C, Python, Javascript.
 
 **Data Science**: Regression analysis, Discriminative models (Random Forest, Decision Trees, Logistic Regression, SVM, kNN), Generative models (Naive Bayes/QDA), Unsupervised Learning (Bayesian Optimization, k-means clustering), Dimensionality Reduction techniques (PCA, LDA), Data Visualization (ggplot2, Matplotlib, Seaborn). 
 
 **Business Intelligence Tools**: Tableau, MS PowerBI, MS Excel (Power Query, Power Pivot, VBA). 
 
-**Frameworks & Other Tools**: Linux/Unix, Git, Django, Flask, Docker, MySQL, HAProxy, Nginx, Puppet, Datadog, Gunicorn.
+**Frameworks & Other Tools**: Linux/Unix, Git, Django, Flask, Docker, MySQL, HAProxy, Nginx, Puppet, Datadog, Gunicorn, Node,js, jQuery.
 
 <!--
 **leroybuliro/leroybuliro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
