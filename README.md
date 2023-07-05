@@ -2,7 +2,7 @@ Analyst and software engineer who works at the intersection of technology, data 
 
 ### Competencies and Technologies
 
-**Coding Languages**: R, C, Python, Javascript.
+**Coding Languages**: R, C, Python, JavaScript, TypeScript.
 
 **Data Science**: Regression analysis, Discriminative models (Random Forest, Decision Trees, Logistic Regression, SVM, kNN), Generative models (Naive Bayes/QDA), Unsupervised Learning (Bayesian Optimization, k-means clustering), Dimensionality Reduction techniques (PCA, LDA), Data Visualization (ggplot2, Matplotlib, Seaborn). 
 
